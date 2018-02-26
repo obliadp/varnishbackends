@@ -1,0 +1,6 @@
+.editorconfig
+.vscode
+varnishbackends
+dist.sh
+reloadv
+default.vcl
